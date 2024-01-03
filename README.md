@@ -1,9 +1,13 @@
 <h1 align="center">Hi, I'm Huzaifa.</h1>
-<h3 align="center">Dedicated Software Engineering Student from Canada</h3>
+<h3 align="center">A passionate Sofware engineering student from Canada</h3>
+
+- 📫 How to reach me **huzaifa.bin_ahmer@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/huzaifa-bin-ahmer-9ba1b3211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huzaifa-bin-ahmer-9ba1b3211" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/inkxide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="inkxide" height="30" width="40" /></a>
+<a href="https://instagram.com/inkxide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="inkxide" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -11,6 +15,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=inkxide&show_icons=true&locale=en&layout=compact" alt="inkxide" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=inkxide&show_icons=true&locale=en" alt="inkxide" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=inkxide&" alt="inkxide" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inkxide&" alt="inkxide" /></p>
