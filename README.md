@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Huzaifa.</h1>
+<h1 align="center">Hi👋, I'm Huzaifa.</h1>
 <h3 align="center">A passionate Sofware engineering student from Canada</h3>
 
 - 📫 How to reach me **huzaifa.bin_ahmer@yahoo.com**
