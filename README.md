@@ -6,10 +6,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/huzaifa-bin-ahmer-9ba1b3211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="huzaifa-bin-ahmer-9ba1b3211" height="30" width="40" /></a>
-
+<a href="https://linkedin.com/in/huzaifa-bin-ahmer-9ba1b3211" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ALinkedIn_logo_initials.png&psig=AOvVaw37-mYR2kF7_etA_O_2UMYc&ust=1704815689392000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDUw7STzoMDFQAAAAAdAAAAABAD" alt="huzaifa-bin-ahmer-9ba1b3211" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23187559/inkxide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:23187559" height="30" width="40" /></a>
-
 <a href="https://instagram.com/inkxide" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="inkxide" height="30" width="40" /></a>
 </p>
 
