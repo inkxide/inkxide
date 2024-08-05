@@ -7,9 +7,10 @@
 
 ## 🛠️ Languages and Tools
 
-![Java](https://img.shields.io/badge/Java-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-43853D?style=for-the-badge&logo=JAVA&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-6FA8DC?style=for-the-badge&logo=next.js&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
