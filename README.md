@@ -1,4 +1,4 @@
-# Hi, I'm Huzaifa, a passionate SWE!
+# Hi, I'm Huzaifa, a SWE!
 
 ## 🚀 About Me
 
